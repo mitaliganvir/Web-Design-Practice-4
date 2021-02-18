@@ -92,6 +92,9 @@ border-right: 2px solid #000000;
 }
 
 /*Req 6d*/
+tr:nth-child(odd) {
+  background: transparent ;
+}
 /*Req 6e*/
 tr:nth-child(even) {
   background: #D1D1D1 ;
